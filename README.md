@@ -1,6 +1,6 @@
 # Project 3 - *Twitter*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to read your tweets.
 
 Time spent: **6** hours spent in total
 
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/dueston/Twitter-Client/blob/master/misc1/twittergif-3-68c13bcf8862.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/dueston/Twitter-Client/blob/master/misc1/twittergif-3-68c13bcf8862.gif?raw=true' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
