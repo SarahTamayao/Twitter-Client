@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/dueston/Twitter-Client/blob/master/misc1/twitter2-3-1c90e864c3fb.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
 
 # Project 3 - *Twitter*
 
